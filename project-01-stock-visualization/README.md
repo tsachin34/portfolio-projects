@@ -22,7 +22,6 @@ Analyze price trends and performance of selected stocks and ETFs, and build an i
 
 ### 📂 Project Structure
 project-01-stock-visualization/
-│
 ├── data/ # Raw or downloaded stock data
 ├── notebooks/ # Analysis & exploratory work
 ├── src/ # Scripts for cleaning & visualization
